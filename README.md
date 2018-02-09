@@ -7,18 +7,18 @@
 |:--------:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
 |**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
-|**Css Grid Layout Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**JavaScript**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**ES6**| ![done][done] | ![done][done] |  |  |  | |
-|**jQuery**| ![done][done] | ![done][done] | ![done][done] |  |  | |
-|**AJAX**| ![done][done] | ![done][done] |  |  |  |  |
-|**NPM**| ![done][done] |  |  |  |  | |
-|**Node.js**| ![done][done] | |  |  |  | |
-|**Command line**| ![done][done] | ![done][done] |  |  |  | |
-|**p5.js**| ![done][done] | ![done][done] |  |  |  | |
-|**GitHub**| ![done][done] | ![done][done] | ![done][done] |  |  | |
+|**Css Grid Layout Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|**Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
+|**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|**AJAX**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  |
+|**NPM**| :ballot_box_with_check: |  |  |  |  | |
+|**Node.js**| :ballot_box_with_check: | |  |  |  | |
+|**Command line**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
+|**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
+|**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
 
 ---
 
