@@ -29,15 +29,14 @@
 |Course|Tutor|
 |:---:|:---:|
 
-|[Front End Development](https://www.freecodecamp.org/elena-in-code)|[Free Code Camp](https://www.freecodecamp.org)|
+|[Front End Development](https://www.freecodecamp.org/highflyer910)|[Free Code Camp](https://www.freecodecamp.org)|
+
 |[JavaScript30](https://javascript30.com/)|[Wes Bos](https://twitter.com/wesbos)|
-|[Learn Angular 4 from Scratch](https://www.udemy.com/learn-angular-from-scratch)|[Gary Simon](https://twitter.com/designcoursecom)|
+
 
 
 
 ---
 
 
-#### Acknowledgments 
 
-Based on the learning tracker by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker) 
