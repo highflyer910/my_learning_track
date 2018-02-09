@@ -2,12 +2,11 @@
 
 ## Skills
 
-[done]: :ballot_box_with_check:
 
 |Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
 |:--------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**HTML5**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
-|**CSS3**| ![done][done] | ![done][done] | ![done][done] | ![done][done] |![done][done] | |
+|**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
+|**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
 |**Css Grid Layout Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Flex-box**| ![done][done] | ![done][done] | ![done][done] |  |  | |
 |**Bootstrap**| ![done][done] | ![done][done] | ![done][done] |  |  | |
