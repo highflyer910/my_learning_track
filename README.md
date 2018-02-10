@@ -12,10 +12,10 @@
 |**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
-|**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
-|**AJAX**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
+|**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**AJAX**| :ballot_box_with_check: |  |  |  |  |  
 |**NPM**| :ballot_box_with_check: |  |  |  |  | 
-|**Node.js**| :ballot_box_with_check: | |  |  |  | 
 |**Command line**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
