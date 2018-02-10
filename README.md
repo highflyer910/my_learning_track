@@ -14,10 +14,9 @@
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**AJAX**| :ballot_box_with_check: |  |  |  |  |  
 |**NPM**| :ballot_box_with_check: |  |  |  |  | 
-|**Command line**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
-|**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 
 ---
@@ -25,17 +24,20 @@
 
 ### Courses
 
-|Course|Tutor|
-|:---:|:---:|
 
-|[Front End Development](https://www.freecodecamp.org/highflyer910)|[Free Code Camp](https://www.freecodecamp.org)|
+|[Free Code Camp](https://www.freecodecamp.org)|
 
-|[JavaScript30](https://javascript30.com/)|[Wes Bos](https://twitter.com/wesbos)|
+|[JavaScript30](https://javascript30.com/)|
 
-
+|[]|
 
 
 ---
 
+### Tools
 
+
+|**Sublime**|
+|**Visual Studio**|
+|**Vim**|
 
