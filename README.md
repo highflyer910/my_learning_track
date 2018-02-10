@@ -26,10 +26,13 @@
 
 
 |[Free Code Camp](https://www.freecodecamp.org)|
-
 |[JavaScript30](https://javascript30.com/)|
-
-|[]|
+|[Udemy](https://www.udemy.com/)|
+|[Udacity](https://www.udacity.com/)|
+|[Frontend Mastrs](https://frontendmasters.com/)|
+|[Code School](https://www.codeschool.com/)|
+|[Code Academy](https://www.codecademy.com/)|
+|[Egghead](https://egghead.io/)|
 
 
 ---
