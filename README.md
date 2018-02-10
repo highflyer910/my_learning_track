@@ -3,22 +3,22 @@
 ## Skills
 
 
-|Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome |
-|:--------:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
-|**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | |
-|**Css Grid Layout**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
-|**Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
-|**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
-|**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
-|**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
-|**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
-|**AJAX**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  |
-|**NPM**| :ballot_box_with_check: |  |  |  |  | |
-|**Node.js**| :ballot_box_with_check: | |  |  |  | |
-|**Command line**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
-|**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | |
-|**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | |
+|Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 
+|:--------:|:---:|:---:|:---:|:---:|:---:|
+|**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
+|**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
+|**Css Grid Layout**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
+|**Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**jQuery**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**AJAX**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
+|**NPM**| :ballot_box_with_check: |  |  |  |  | 
+|**Node.js**| :ballot_box_with_check: | |  |  |  | 
+|**Command line**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 
 ---
 
