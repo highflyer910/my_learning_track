@@ -18,6 +18,8 @@
 |**A-Frame**| :ballot_box_with_check: |  |  |  |  | 
 |**AJAX**| :ballot_box_with_check: |  |  |  |  |  
 |**NPM**| :ballot_box_with_check: |  |  |  |  | 
+|**SQL**| :ballot_box_with_check: |  |  |  |  | 
+|**MongoDB**| :ballot_box_with_check: |  |  |  |  | 
 |**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 
 ---
