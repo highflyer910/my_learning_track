@@ -3,7 +3,7 @@
 ## Skills
 
 
-|Skill| 1<br>Introduction | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 
+|Skill| 1<br>Used Once | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 
 |:--------:|:---:|:---:|:---:|:---:|:---:|
 |**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
 |**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
