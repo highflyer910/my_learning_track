@@ -11,7 +11,7 @@
 |**Css Grid Layout**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
 |**Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
-|**Sass**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:  |  | 
+|**SCSS**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:  |  | 
 |**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**jQuery animations**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
