@@ -7,6 +7,7 @@
 |:--------:|:---:|:---:|:---:|:---:|:---:|
 |**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
 |**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
+|**BEM Technology**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | | 
 |**Css Grid Layout**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
 |**Flex-box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
