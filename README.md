@@ -27,7 +27,7 @@
 |**GitHub**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Adobe XD**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | |
 |**Autodesk Sketchbook**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
-|**GIMP**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | 
+|**GIMP**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | | 
 
 
 ---
