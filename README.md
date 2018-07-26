@@ -14,8 +14,7 @@
 |**Bulma**| :ballot_box_with_check: | | |  |  | 
 |**SCSS**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:  |  | 
 |**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
-|**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
-|**jQuery animations**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
+|**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Lodash**| :ballot_box_with_check: |  |  |  |  | 
 |**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
