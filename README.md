@@ -18,14 +18,14 @@
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Nuxt.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**Gridsome**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**GSAP**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Lodash**| :ballot_box_with_check: |  |  |  |  | 
 |**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**A-Frame**| :ballot_box_with_check: |  |  |  |  | 
 |**AJAX**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Axios**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
-|**NPM**| :ballot_box_with_check: | :ballot_box_with_check:  |  |  |  | 
-|**SQL**| :ballot_box_with_check: |  |  |  |  |  
+|**NPM**| :ballot_box_with_check: | :ballot_box_with_check:  |  |  |  |   
 |**Git**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Adobe Photoshop**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |
 |**Adobe Illustrator**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check:  |  |  
