@@ -18,7 +18,8 @@
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Nuxt.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
-|**Gridsome**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**Gridsome**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
+|**Svelte.js**| :ballot_box_with_check: |  |  |  |  | 
 |**GSAP**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Lodash**| :ballot_box_with_check: |  |  |  |  | 
 |**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
