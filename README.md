@@ -39,13 +39,12 @@
 
 
 |[FreeCodeCamp](https://www.freecodecamp.org)|
-|[JavaScript30](https://javascript30.com/)|
 |[Udemy](https://www.udemy.com/)|
 |[Udacity](https://www.udacity.com/)|
+|[Vue School](https://vueschool.io/)|
 |[Frontend Masters](https://frontendmasters.com/)|
-|[Codeschool](https://www.codeschool.com/)|
 |[Codacademy](https://www.codecademy.com/)|
-|[egghead.io](https://egghead.io/)|
+|[JavaScript30](https://javascript30.com/)|
 
 
 
