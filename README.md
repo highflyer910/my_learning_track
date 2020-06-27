@@ -43,7 +43,7 @@
 |[Udacity](https://www.udacity.com/)|
 |[Vue School](https://vueschool.io/)|
 |[Frontend Masters](https://frontendmasters.com/)|
-|[Codacademy](https://www.codecademy.com/)|
+|[Codecademy](https://www.codecademy.com/)|
 |[JavaScript30](https://javascript30.com/)|
 
 
