@@ -5,8 +5,8 @@
 
 |Skill| 1<br>Used Once | 2<br>Basics | 3<br>Good | 4<br>Pretty Good | 5<br>Confident | 
 |:--------:|:---:|:---:|:---:|:---:|:---:|
-|**HTML5**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
-|**CSS3**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
+|**HTML**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
+|**CSS**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |:ballot_box_with_check: | 
 |**JavaScript**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**ES6**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Python**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |
@@ -51,8 +51,7 @@
 
 ### Tools
 
-
-|**Sublime**|
 |**Visual Studio**|
+|**Sublime**|
 |**Vim**|
 
