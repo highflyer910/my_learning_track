@@ -51,7 +51,6 @@
 
 ### Tools
 
-|**Visual Studio**|
+|**VS Code**|
 |**Sublime**|
-|**Vim**|
 
