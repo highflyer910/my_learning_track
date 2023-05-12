@@ -12,6 +12,7 @@
 |**Tkinter GUI**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Leaflet.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |  
 |**Vue.js**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**Vite**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |
 |**Nuxt.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**Gridsome**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |
 |**GraphQL**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  |
@@ -21,7 +22,7 @@
 |**p5.js**| :ballot_box_with_check: | :ballot_box_with_check: |  |  |  | 
 |**BEM Technology**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | | 
 |**Css Grid**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
-|**Flexbox**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
+|**Flex box**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  | 
 |**Bootstrap**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
 |**Tailwind**| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |  |  |
 |**Bulma**| :ballot_box_with_check: | | |  |  | 
@@ -39,12 +40,10 @@
 
 
 |[FreeCodeCamp](https://www.freecodecamp.org)|
-|[Udemy](https://www.udemy.com/)|
-|[Udacity](https://www.udacity.com/)|
+|[Scrimba](https://scrimba.com/learn/frontend)|
 |[Vue School](https://vueschool.io/)|
+|[Udemy](https://www.udemy.com/)|
 |[Frontend Masters](https://frontendmasters.com/)|
-|[Codecademy](https://www.codecademy.com/)|
-|[JavaScript30](https://javascript30.com/)|
 
 
 
@@ -53,5 +52,4 @@
 ### Tools
 
 |**VS Code**|
-|**Sublime**|
 
